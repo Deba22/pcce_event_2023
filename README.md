@@ -1,42 +1,41 @@
 # pcce_event_2023
 Workshop - Introduction to Umbraco CMS
 
-PREREQUISITES
-Windows PC with internet access
+## PREREQUISITES
+### Windows PC with internet access
 
-IIS
+### IIS
 
-Visual Studio 2022 (community edition)
+### Visual Studio 2022 (community edition)
 https://visualstudio.microsoft.com/downloads/
 
-.NET 7 SDK
+### .NET 7 SDK
 https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
 
-Git
+### Git
 https://git-scm.com/download/win
 
-Git client - Tortoise
+### Git client - Tortoise
 https://tortoisegit.org/download/
 
-MPORTANT LINKS
-Create a free umbraco cloud account
+## IMPORTANT LINKS
+1. Create a free umbraco cloud account
 https://umbraco.com/products/umbraco-cloud/
 
-More info on Umbraco Cloud | Video on creating a trial umbraco coud project
+2. More info on Umbraco Cloud | Video on creating a trial umbraco coud project
 https://docs.umbraco.com/umbraco-cloud/
 
-Video on cloning a project from cloud
+3. Video on cloning a project from cloud
 https://docs.umbraco.com/umbraco-cloud/set-up/working-locally
 
-
-Working with umbraco cloud
+4. Working with umbraco cloud
 https://www.youtube.com/watch?v=uvBpiY9TkV0
 
 
-DEVELOPMENT PLAN
+## DEVELOPMENT PLAN
 
-Plan
-Create a project on Cloud
+
+### Create a project on Cloud
 1.	Introduction about Umbraco Cloud
 2.	Create a free Umbraco cloud trial project.
 https://umbraco.com/products/umbraco-cloud/
@@ -46,7 +45,7 @@ https://umbraco.com/products/umbraco-cloud/
 6.	Show the empty frontend
 7.	Show https://www.s1.umbraco.io/
 
-Clone the project locally
+### Clone the project locally
 1.	Click on the clone project option from the dropdown menu and copy the clone url
 2.	Create a folder in your file system – MyUmbracoSite
 3.	Open it in terminal and type the following command
